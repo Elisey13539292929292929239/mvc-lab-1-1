@@ -1,5 +1,5 @@
 const http = require('http');
-const student = require('./student'); 
+const student = require('./student_zad4'); 
 const PORT = 3000;
 
 const server = http.createServer((req, res) => {
